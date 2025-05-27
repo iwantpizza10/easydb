@@ -10,5 +10,6 @@ module.exports = {
   set: require('./functions/save'),
   get: require('./functions/get'),
   remove: require('./functions/remove'),
-  init: require('./functions/init')
+  init: require('./functions/init'),
+  list: require('./functions/list')
 }
